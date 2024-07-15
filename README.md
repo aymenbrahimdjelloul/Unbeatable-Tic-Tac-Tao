@@ -1,4 +1,7 @@
-# Unbeatable Tic Tac Toe
+<h1>
+  <img src="https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/icon.ico" alt="Icon" style="vertical-align:middle;">
+  Unbeatable Tic Tac Toe
+</h1>
 
 [![Download](https://img.shields.io/badge/Download-TicTacToe-brightgreen)](https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/releases/download/v1.0/Unbeatable_tic_tac_tao.zip)
 
