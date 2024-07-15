@@ -2,9 +2,11 @@
 
 Welcome to the Unbeatable Tic Tac Toe game! This project showcases a classic Tic Tac Toe game developed using PyQt5 with a powerful AI bot that employs the Minimax algorithm to ensure unbeatable gameplay. Challenge yourself against the bot or play with a friend to see who prevails!
 
-![Application Screenshot]((https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/screenshots/screenshot_1.PNG)
-![Application Screenshot]((https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/screenshots/screenshot_2.PNG)
-![Application Screenshot]((https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/screenshots/screenshot_3.PNG)
+
+![Application Screenshot](https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/screenshots/screenshot_1.PNG)
+![Application Screenshot](https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/screenshots/screenshot_2.PNG)
+![Application Screenshot](https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/screenshots/screenshot_3.PNG)
+
 
 ## Features
 
