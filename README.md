@@ -1,6 +1,6 @@
 <h1>
   <img src="https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/icon.ico" alt="Icon" style="vertical-align:middle; margin-right: 10px; padding: 5px;" width="50" height="50">
-  Unbeatable Tic Tac Toe
+  <h1 style="font-family: Arial, sans-serif; font-size: 36px; color: #333;"">Unbeatable Tic Tac Tao</h1>
 </h1>
 
 [![Download](https://img.shields.io/badge/Download-TicTacToe-brightgreen)](https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/releases/download/v1.0/Unbeatable_tic_tac_tao.zip)
