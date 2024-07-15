@@ -1,5 +1,8 @@
 # Unbeatable Tic Tac Toe
 
+[![Download](https://img.shields.io/badge/Download-TicTacToe-brightgreen)](https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/releases/download/v1.0/Unbeatable_tic_tac_tao.zip)
+
+
 Welcome to the Unbeatable Tic Tac Toe game! This project showcases a classic Tic Tac Toe game developed using PyQt5 with a powerful AI bot that employs the Minimax algorithm to ensure unbeatable gameplay. Challenge yourself against the bot or play with a friend to see who prevails!
 
 
