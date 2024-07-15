@@ -5,7 +5,6 @@ Welcome to the Unbeatable Tic Tac Toe game! This project showcases a classic Tic
 
 ![Application Screenshot](https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/screenshots/screenshot_1.PNG)
 ![Application Screenshot](https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/screenshots/screenshot_2.PNG)
-![Application Screenshot](https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/screenshots/screenshot_3.PNG)
 
 
 ## Features
