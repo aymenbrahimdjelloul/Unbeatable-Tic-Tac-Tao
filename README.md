@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/icon.ico" alt="Icon" style="vertical-align:middle; margin-right: 10px;" width="40" height="40">
+  <img src="https://github.com/aymenbrahimdjelloul/Unbeatable-Tic-Tac-Tao/blob/main/icon.ico" alt="Icon" style="vertical-align:middle; margin-right: 10px; padding: 5px;" width="50" height="50">
   Unbeatable Tic Tac Toe
 </h1>
 
